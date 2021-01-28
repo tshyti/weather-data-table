@@ -12,7 +12,7 @@ export default function WeatherDataTable({ data, loading }) {
         return a.dt - b.dt;
       },
       render: (value) => {
-        return <label key>{getDateFromUnixTimestamp(value)}</label>;
+        return <label>{getDateFromUnixTimestamp(value)}</label>;
       },
       ...getColumnSearchProps({
         dataIndex: "dt",
@@ -100,7 +100,7 @@ export default function WeatherDataTable({ data, loading }) {
         </div>
       ),
       filterIcon: (filtered) => (
-        <SearchOutlined style={{ color: filtered ? "#1890ff" : undefined }} />
+        <SearchOutlined style={{ color: filtered ? "#1890ff" : "unset" }} />
       ),
       onFilter: (value, record) => {
         let recordValue = getValueFn ? getValueFn(record) : record[dataIndex];
