@@ -8,7 +8,7 @@ export default function CitiesDropdown({ onSelectCity }) {
     <div>
       <Select
         showSearch
-        style={{ width: 200 }}
+        style={{ minWidth: 200, maxWidth: 300 }}
         placeholder="Select a city"
         optionFilterProp="children"
         onChange={onSelectCity}
