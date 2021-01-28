@@ -1,0 +1,6522 @@
+[
+    {
+        "id": 3838826,
+        "name": "Río Pico",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.368469,
+            "lat": -44.179039
+        }
+    },
+    {
+        "id": 3838830,
+        "name": "Río Negro Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.0,
+            "lat": -40.0
+        }
+    },
+    {
+        "id": 3838840,
+        "name": "Río Mayo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.257973,
+            "lat": -45.68573
+        }
+    },
+    {
+        "id": 3838854,
+        "name": "Río Grande",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.709457,
+            "lat": -53.787689
+        }
+    },
+    {
+        "id": 3838859,
+        "name": "Río Gallegos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.218132,
+            "lat": -51.622608
+        }
+    },
+    {
+        "id": 3838873,
+        "name": "Departamento de Río Cuarto",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.5,
+            "lat": -33.333328
+        }
+    },
+    {
+        "id": 3838874,
+        "name": "Río Cuarto",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.349922,
+            "lat": -33.130669
+        }
+    },
+    {
+        "id": 3838880,
+        "name": "Río Colorado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.093842,
+            "lat": -38.99176
+        }
+    },
+    {
+        "id": 3838902,
+        "name": "Río Ceballos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.322411,
+            "lat": -31.16486
+        }
+    },
+    {
+        "id": 3838981,
+        "name": "Rincón del Doll",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.392479,
+            "lat": -32.436352
+        }
+    },
+    {
+        "id": 3839061,
+        "name": "Ricardone",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.782398,
+            "lat": -32.76923
+        }
+    },
+    {
+        "id": 3839063,
+        "name": "Ricardo Gaviña",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.039082,
+            "lat": -37.444752
+        }
+    },
+    {
+        "id": 3839096,
+        "name": "Retamito",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.601784,
+            "lat": -32.1022
+        }
+    },
+    {
+        "id": 3839262,
+        "name": "Recreo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.73299,
+            "lat": -31.490761
+        }
+    },
+    {
+        "id": 3839263,
+        "name": "Recreo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.060959,
+            "lat": -29.281839
+        }
+    },
+    {
+        "id": 3839281,
+        "name": "Departamento de Realicó",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.25,
+            "lat": -35.25
+        }
+    },
+    {
+        "id": 3839282,
+        "name": "Realicó",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.244698,
+            "lat": -35.036579
+        }
+    },
+    {
+        "id": 3839288,
+        "name": "Real del Padre",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.764992,
+            "lat": -34.841419
+        }
+    },
+    {
+        "id": 3839303,
+        "name": "Departamento de Rawson",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.0,
+            "lat": -43.333328
+        }
+    },
+    {
+        "id": 3839307,
+        "name": "Rawson",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.10228,
+            "lat": -43.300159
+        }
+    },
+    {
+        "id": 3839381,
+        "name": "Rancul",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.681068,
+            "lat": -35.068619
+        }
+    },
+    {
+        "id": 3839402,
+        "name": "Ranchillos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.045532,
+            "lat": -26.954241
+        }
+    },
+    {
+        "id": 3839441,
+        "name": "Partido de Ramallo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.083328,
+            "lat": -33.5
+        }
+    },
+    {
+        "id": 3839444,
+        "name": "Ramallo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.007069,
+            "lat": -33.484821
+        }
+    },
+    {
+        "id": 3839456,
+        "name": "Rama Caída",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.381989,
+            "lat": -34.67749
+        }
+    },
+    {
+        "id": 3839479,
+        "name": "Rafaela",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.486698,
+            "lat": -31.25033
+        }
+    },
+    {
+        "id": 3839482,
+        "name": "Rada Tilly",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.533333,
+            "lat": -45.933331
+        }
+    },
+    {
+        "id": 3839489,
+        "name": "Departamento de Quitilipi",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.166672,
+            "lat": -26.66667
+        }
+    },
+    {
+        "id": 3839490,
+        "name": "Quitilipi",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.216831,
+            "lat": -26.869129
+        }
+    },
+    {
+        "id": 3839516,
+        "name": "Quiroga",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.406719,
+            "lat": -35.292919
+        }
+    },
+    {
+        "id": 3839565,
+        "name": "Quimilí",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.416672,
+            "lat": -27.633329
+        }
+    },
+    {
+        "id": 3839588,
+        "name": "Quilino",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.500633,
+            "lat": -30.21397
+        }
+    },
+    {
+        "id": 3839667,
+        "name": "Departamento de Quemú Quemú",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.75,
+            "lat": -36.25
+        }
+    },
+    {
+        "id": 3839668,
+        "name": "Quemú Quemú",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.564281,
+            "lat": -36.05463
+        }
+    },
+    {
+        "id": 3839792,
+        "name": "Departamento de Quebrachos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.333328,
+            "lat": -29.33333
+        }
+    },
+    {
+        "id": 3839801,
+        "name": "Quebracho Herrado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.2262,
+            "lat": -31.54891
+        }
+    },
+    {
+        "id": 3839982,
+        "name": "Punta Alta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.073589,
+            "lat": -38.875881
+        }
+    },
+    {
+        "id": 3839996,
+        "name": "Departamento de Punilla",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.666672,
+            "lat": -31.16667
+        }
+    },
+    {
+        "id": 3840029,
+        "name": "Pujato",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.043228,
+            "lat": -33.017658
+        }
+    },
+    {
+        "id": 3840031,
+        "name": "Puiggari",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.447289,
+            "lat": -32.05452
+        }
+    },
+    {
+        "id": 3840076,
+        "name": "Puerto Santa Cruz",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.523209,
+            "lat": -50.0191
+        }
+    },
+    {
+        "id": 3840080,
+        "name": "Puerto San Martín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.736198,
+            "lat": -32.715321
+        }
+    },
+    {
+        "id": 3840081,
+        "name": "Puerto San Lorenzo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.734631,
+            "lat": -32.727482
+        }
+    },
+    {
+        "id": 3840082,
+        "name": "San Julián",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.727432,
+            "lat": -49.305538
+        }
+    },
+    {
+        "id": 3840092,
+        "name": "Puerto Madryn",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.038513,
+            "lat": -42.769199
+        }
+    },
+    {
+        "id": 3840104,
+        "name": "Puerto Deseado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.893822,
+            "lat": -47.75034
+        }
+    },
+    {
+        "id": 3840159,
+        "name": "Puerta de Corral Quemado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.936348,
+            "lat": -27.23
+        }
+    },
+    {
+        "id": 3840222,
+        "name": "Pueblo Elisa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.519081,
+            "lat": -32.680672
+        }
+    },
+    {
+        "id": 3840224,
+        "name": "Pueblo Buena Parada",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.033333,
+            "lat": -39.01667
+        }
+    },
+    {
+        "id": 3840253,
+        "name": "Puan",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.767231,
+            "lat": -37.545761
+        }
+    },
+    {
+        "id": 3840258,
+        "name": "Progresso",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.989521,
+            "lat": -31.13773
+        }
+    },
+    {
+        "id": 3840259,
+        "name": "Profesor Salvador Mazza",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.69128,
+            "lat": -22.05011
+        }
+    },
+    {
+        "id": 3840300,
+        "name": "Presidencia Roque Sáenz Peña",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.438759,
+            "lat": -26.785219
+        }
+    },
+    {
+        "id": 3840314,
+        "name": "Pozuelos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.755722,
+            "lat": -27.30801
+        }
+    },
+    {
+        "id": 3840403,
+        "name": "Pozo Herrera",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.345829,
+            "lat": -28.3873
+        }
+    },
+    {
+        "id": 3840432,
+        "name": "Pozo del Tigre",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.323589,
+            "lat": -24.89682
+        }
+    },
+    {
+        "id": 3840470,
+        "name": "Pozo del Molle",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.919842,
+            "lat": -32.0186
+        }
+    },
+    {
+        "id": 3840548,
+        "name": "Pozo de Ávila",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.79055,
+            "lat": -29.365721
+        }
+    },
+    {
+        "id": 3840762,
+        "name": "Porteña",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.066502,
+            "lat": -31.01391
+        }
+    },
+    {
+        "id": 3840808,
+        "name": "Departamento de Pomán",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.416672,
+            "lat": -28.25
+        }
+    },
+    {
+        "id": 3840809,
+        "name": "Pomán",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.22052,
+            "lat": -28.39455
+        }
+    },
+    {
+        "id": 3840858,
+        "name": "Departamento de Pocito",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.699997,
+            "lat": -31.799999
+        }
+    },
+    {
+        "id": 3840860,
+        "name": "Pocito",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.583328,
+            "lat": -31.683331
+        }
+    },
+    {
+        "id": 3840885,
+        "name": "Plottier",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.23333,
+            "lat": -38.966671
+        }
+    },
+    {
+        "id": 3840896,
+        "name": "Plaza Huincul",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.208633,
+            "lat": -38.92598
+        }
+    },
+    {
+        "id": 3840987,
+        "name": "Pirovano",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.566669,
+            "lat": -36.5
+        }
+    },
+    {
+        "id": 3841035,
+        "name": "Piquillín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.757881,
+            "lat": -31.30158
+        }
+    },
+    {
+        "id": 3841039,
+        "name": "Piquete Cabado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.179169,
+            "lat": -24.81922
+        }
+    },
+    {
+        "id": 3841143,
+        "name": "Pilcaniyeu",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.729141,
+            "lat": -41.118809
+        }
+    },
+    {
+        "id": 3841149,
+        "name": "Pilar",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.879639,
+            "lat": -31.6789
+        }
+    },
+    {
+        "id": 3841159,
+        "name": "Pigüé",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.403332,
+            "lat": -37.605091
+        }
+    },
+    {
+        "id": 3841163,
+        "name": "Piedritas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.983662,
+            "lat": -34.768318
+        }
+    },
+    {
+        "id": 3841210,
+        "name": "Piedra Pintada",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.15094,
+            "lat": -31.926451
+        }
+    },
+    {
+        "id": 3841232,
+        "name": "Piedra del Águila",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.074097,
+            "lat": -40.048111
+        }
+    },
+    {
+        "id": 3841298,
+        "name": "Departamento de Picún Leufú",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.5,
+            "lat": -39.5
+        }
+    },
+    {
+        "id": 3841301,
+        "name": "Picún Leufú",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.279663,
+            "lat": -39.52351
+        }
+    },
+    {
+        "id": 3841309,
+        "name": "Pico Truncado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.957314,
+            "lat": -46.794899
+        }
+    },
+    {
+        "id": 3841363,
+        "name": "Pichi Leufú",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.849998,
+            "lat": -41.133331
+        }
+    },
+    {
+        "id": 3841413,
+        "name": "Piamonte",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.98217,
+            "lat": -32.143009
+        }
+    },
+    {
+        "id": 3841426,
+        "name": "Peyrano",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.801491,
+            "lat": -33.537331
+        }
+    },
+    {
+        "id": 3841475,
+        "name": "Perito Moreno",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.929749,
+            "lat": -46.589939
+        }
+    },
+    {
+        "id": 3841476,
+        "name": "Perito Moreno",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.409401,
+            "lat": -41.11618
+        }
+    },
+    {
+        "id": 3841486,
+        "name": "Perico",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.114906,
+            "lat": -24.382931
+        }
+    },
+    {
+        "id": 3841488,
+        "name": "Partido de Pergamino",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.583328,
+            "lat": -33.75
+        }
+    },
+    {
+        "id": 3841490,
+        "name": "Pergamino",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.57357,
+            "lat": -33.88995
+        }
+    },
+    {
+        "id": 3841493,
+        "name": "Pérez Millán",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.094158,
+            "lat": -33.76936
+        }
+    },
+    {
+        "id": 3841500,
+        "name": "Pérez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.76791,
+            "lat": -32.998348
+        }
+    },
+    {
+        "id": 3841517,
+        "name": "Peralta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.667568,
+            "lat": -38.057919
+        }
+    },
+    {
+        "id": 3841610,
+        "name": "Partido de Pellegrini",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.0,
+            "lat": -36.333328
+        }
+    },
+    {
+        "id": 3841612,
+        "name": "Departamento de Pellegrini",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.25,
+            "lat": -26.16667
+        }
+    },
+    {
+        "id": 3841614,
+        "name": "Pellegrini",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.165501,
+            "lat": -36.265839
+        }
+    },
+    {
+        "id": 3841678,
+        "name": "Partido de Pehuajó",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.75,
+            "lat": -35.916672
+        }
+    },
+    {
+        "id": 3841679,
+        "name": "Pehuajó",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.896801,
+            "lat": -35.810768
+        }
+    },
+    {
+        "id": 3841684,
+        "name": "Pedro Luro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.68169,
+            "lat": -39.502541
+        }
+    },
+    {
+        "id": 3841689,
+        "name": "Pedro E. Vivas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.530842,
+            "lat": -31.3706
+        }
+    },
+    {
+        "id": 3841708,
+        "name": "Pedregal",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.683327,
+            "lat": -32.966671
+        }
+    },
+    {
+        "id": 3841744,
+        "name": "Pavón Arriba",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.823681,
+            "lat": -33.311211
+        }
+    },
+    {
+        "id": 3841748,
+        "name": "Pavón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.40517,
+            "lat": -33.241718
+        }
+    },
+    {
+        "id": 3841763,
+        "name": "Patricios",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.715931,
+            "lat": -35.439548
+        }
+    },
+    {
+        "id": 3841892,
+        "name": "Departamento de Paso de Indios",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.833328,
+            "lat": -44.0
+        }
+    },
+    {
+        "id": 3841894,
+        "name": "Paso de Indios",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.046021,
+            "lat": -43.862251
+        }
+    },
+    {
+        "id": 3841908,
+        "name": "Pasco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.342319,
+            "lat": -32.74733
+        }
+    },
+    {
+        "id": 3841912,
+        "name": "Pascanas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.04084,
+            "lat": -33.1255
+        }
+    },
+    {
+        "id": 3841937,
+        "name": "Parera",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.500893,
+            "lat": -35.146
+        }
+    },
+    {
+        "id": 3841956,
+        "name": "Paraná",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.5238,
+            "lat": -31.73197
+        }
+    },
+    {
+        "id": 3841979,
+        "name": "Paraje El Cerro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.283329,
+            "lat": -32.51667
+        }
+    },
+    {
+        "id": 3842140,
+        "name": "Pampa de los Guanacos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.849998,
+            "lat": -26.23333
+        }
+    },
+    {
+        "id": 3842142,
+        "name": "Pampa del Infierno",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.174358,
+            "lat": -26.505171
+        }
+    },
+    {
+        "id": 3842190,
+        "name": "Palpalá",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.211632,
+            "lat": -24.256479
+        }
+    },
+    {
+        "id": 3842217,
+        "name": "Palomitas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.226982,
+            "lat": -27.46703
+        }
+    },
+    {
+        "id": 3842258,
+        "name": "Palmitas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.954582,
+            "lat": -27.234591
+        }
+    },
+    {
+        "id": 3842268,
+        "name": "Palma Sola",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.298721,
+            "lat": -23.96336
+        }
+    },
+    {
+        "id": 3842414,
+        "name": "Padilla",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.392159,
+            "lat": -27.022659
+        }
+    },
+    {
+        "id": 3842418,
+        "name": "Departamento de Paclín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.666672,
+            "lat": -28.08333
+        }
+    },
+    {
+        "id": 3842432,
+        "name": "Pacará",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.133331,
+            "lat": -26.9
+        }
+    },
+    {
+        "id": 3842559,
+        "name": "Oro Verde",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.51749,
+            "lat": -31.825081
+        }
+    },
+    {
+        "id": 3842591,
+        "name": "Ordoqui",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.16153,
+            "lat": -35.881329
+        }
+    },
+    {
+        "id": 3842593,
+        "name": "Ordóñez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.86552,
+            "lat": -32.840569
+        }
+    },
+    {
+        "id": 3842621,
+        "name": "Oncativo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.682011,
+            "lat": -31.91353
+        }
+    },
+    {
+        "id": 3842653,
+        "name": "Oliveros",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.85236,
+            "lat": -32.575611
+        }
+    },
+    {
+        "id": 3842662,
+        "name": "Oliva",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.569778,
+            "lat": -32.04158
+        }
+    },
+    {
+        "id": 3842670,
+        "name": "Olavarría",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.32254,
+            "lat": -36.892719
+        }
+    },
+    {
+        "id": 3842672,
+        "name": "Olascoaga",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.611671,
+            "lat": -35.236881
+        }
+    },
+    {
+        "id": 3842680,
+        "name": "Olaeta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.907349,
+            "lat": -33.045261
+        }
+    },
+    {
+        "id": 3842796,
+        "name": "Obispo Trejo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.413479,
+            "lat": -30.781281
+        }
+    },
+    {
+        "id": 3842802,
+        "name": "Obanta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.300003,
+            "lat": -26.866671
+        }
+    },
+    {
+        "id": 3842840,
+        "name": "Nuevo Torino",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.235401,
+            "lat": -31.346451
+        }
+    },
+    {
+        "id": 3842871,
+        "name": "Partido de Nueve de Julio",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.0,
+            "lat": -35.5
+        }
+    },
+    {
+        "id": 3842876,
+        "name": "Departamento de Nueve de Julio",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.416672,
+            "lat": -31.66667
+        }
+    },
+    {
+        "id": 3842881,
+        "name": "Nueve de Julio",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.883129,
+            "lat": -35.44437
+        }
+    },
+    {
+        "id": 3842882,
+        "name": "Nueve de Julio",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.390228,
+            "lat": -31.66914
+        }
+    },
+    {
+        "id": 3842899,
+        "name": "Nueva Lehmann",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.515652,
+            "lat": -31.11702
+        }
+    },
+    {
+        "id": 3843026,
+        "name": "Noetinger",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.31126,
+            "lat": -32.365971
+        }
+    },
+    {
+        "id": 3843037,
+        "name": "Ñirihuau",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.150002,
+            "lat": -41.116669
+        }
+    },
+    {
+        "id": 3843059,
+        "name": "Ninte",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.817059,
+            "lat": -30.93609
+        }
+    },
+    {
+        "id": 3843122,
+        "name": "Neuquén Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.0,
+            "lat": -39.0
+        }
+    },
+    {
+        "id": 3843123,
+        "name": "Neuquén",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.059097,
+            "lat": -38.951611
+        }
+    },
+    {
+        "id": 3843392,
+        "name": "Navarro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.220119,
+            "lat": -29.179609
+        }
+    },
+    {
+        "id": 3843407,
+        "name": "Naschel",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.375351,
+            "lat": -32.916561
+        }
+    },
+    {
+        "id": 3843436,
+        "name": "Napenay",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.616669,
+            "lat": -26.73333
+        }
+    },
+    {
+        "id": 3843504,
+        "name": "Mutquín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.142532,
+            "lat": -28.321039
+        }
+    },
+    {
+        "id": 3843619,
+        "name": "Morteros",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.998619,
+            "lat": -30.711639
+        }
+    },
+    {
+        "id": 3843647,
+        "name": "Morrison",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.834549,
+            "lat": -32.594799
+        }
+    },
+    {
+        "id": 3843788,
+        "name": "Monte Vera",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.676769,
+            "lat": -31.516701
+        }
+    },
+    {
+        "id": 3843798,
+        "name": "Montes de Oca",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.76881,
+            "lat": -32.566662
+        }
+    },
+    {
+        "id": 3843802,
+        "name": "Departamento de Monteros",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.583328,
+            "lat": -27.16667
+        }
+    },
+    {
+        "id": 3843803,
+        "name": "Monteros",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.498322,
+            "lat": -27.167419
+        }
+    },
+    {
+        "id": 3843819,
+        "name": "Monte Quemado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.830189,
+            "lat": -25.805651
+        }
+    },
+    {
+        "id": 3843830,
+        "name": "Monte Maíz",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.600849,
+            "lat": -33.20462
+        }
+    },
+    {
+        "id": 3843843,
+        "name": "Monte Hermoso",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.29472,
+            "lat": -38.982498
+        }
+    },
+    {
+        "id": 3843844,
+        "name": "Monte Hermoso",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.299999,
+            "lat": -38.650002
+        }
+    },
+    {
+        "id": 3843854,
+        "name": "Monte Flores",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.68272,
+            "lat": -33.1073
+        }
+    },
+    {
+        "id": 3843871,
+        "name": "Monte Cristo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.94437,
+            "lat": -31.343121
+        }
+    },
+    {
+        "id": 3843881,
+        "name": "Monte Buey",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.45668,
+            "lat": -32.91642
+        }
+    },
+    {
+        "id": 3843897,
+        "name": "Monteagudo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.276558,
+            "lat": -27.51162
+        }
+    },
+    {
+        "id": 3844012,
+        "name": "Molinari",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.48333,
+            "lat": -31.200001
+        }
+    },
+    {
+        "id": 3844046,
+        "name": "Mojón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.916283,
+            "lat": -27.22823
+        }
+    },
+    {
+        "id": 3844104,
+        "name": "Mixta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.134956,
+            "lat": -27.228991
+        }
+    },
+    {
+        "id": 3844159,
+        "name": "Miramar",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.678139,
+            "lat": -30.918579
+        }
+    },
+    {
+        "id": 3844209,
+        "name": "Departamento de Minas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.333328,
+            "lat": -31.0
+        }
+    },
+    {
+        "id": 3844229,
+        "name": "Mina Clavero",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.006187,
+            "lat": -31.721001
+        }
+    },
+    {
+        "id": 3844267,
+        "name": "Miguel Riglos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.688419,
+            "lat": -36.853981
+        }
+    },
+    {
+        "id": 3844270,
+        "name": "Miguel Cané",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.510872,
+            "lat": -36.157009
+        }
+    },
+    {
+        "id": 3844377,
+        "name": "Merlo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.013962,
+            "lat": -32.34288
+        }
+    },
+    {
+        "id": 3844419,
+        "name": "Mendoza Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.5,
+            "lat": -34.5
+        }
+    },
+    {
+        "id": 3844421,
+        "name": "Mendoza",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.827171,
+            "lat": -32.890839
+        }
+    },
+    {
+        "id": 3844424,
+        "name": "Mendiolaza",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.300873,
+            "lat": -31.26738
+        }
+    },
+    {
+        "id": 3844459,
+        "name": "Melincué",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.454578,
+            "lat": -33.65847
+        }
+    },
+    {
+        "id": 3844473,
+        "name": "Medrano",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.6138,
+            "lat": -33.179619
+        }
+    },
+    {
+        "id": 3844585,
+        "name": "Médano de Oro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.449997,
+            "lat": -31.6
+        }
+    },
+    {
+        "id": 3844609,
+        "name": "Mechita",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.408428,
+            "lat": -35.07016
+        }
+    },
+    {
+        "id": 3844644,
+        "name": "Mayor Buratovich",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.616619,
+            "lat": -39.258961
+        }
+    },
+    {
+        "id": 3844668,
+        "name": "Máximo Paz",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.958302,
+            "lat": -33.484589
+        }
+    },
+    {
+        "id": 3844679,
+        "name": "Mattaldi",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.172546,
+            "lat": -34.481941
+        }
+    },
+    {
+        "id": 3844687,
+        "name": "Matorrales",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.511181,
+            "lat": -31.71509
+        }
+    },
+    {
+        "id": 3844759,
+        "name": "Marull",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.82576,
+            "lat": -30.994711
+        }
+    },
+    {
+        "id": 3844811,
+        "name": "Mari Lauquen",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.976662,
+            "lat": -36.130291
+        }
+    },
+    {
+        "id": 3844818,
+        "name": "María Teresa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.914951,
+            "lat": -34.011871
+        }
+    },
+    {
+        "id": 3844819,
+        "name": "María Susana",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.90292,
+            "lat": -32.26561
+        }
+    },
+    {
+        "id": 3844828,
+        "name": "Mariano Unzué",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.01667,
+            "lat": -36.133331
+        }
+    },
+    {
+        "id": 3844832,
+        "name": "Mariano Moreno",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.023666,
+            "lat": -38.75029
+        }
+    },
+    {
+        "id": 3844848,
+        "name": "María Juana",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.751869,
+            "lat": -31.676809
+        }
+    },
+    {
+        "id": 3844899,
+        "name": "Marcos Juárez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.10672,
+            "lat": -32.6978
+        }
+    },
+    {
+        "id": 3844908,
+        "name": "Marcelino Escalada",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.468689,
+            "lat": -30.57918
+        }
+    },
+    {
+        "id": 3844933,
+        "name": "Maquinchao",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.73333,
+            "lat": -41.25
+        }
+    },
+    {
+        "id": 3844962,
+        "name": "Manuel García Fernández",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.283333,
+            "lat": -26.966669
+        }
+    },
+    {
+        "id": 3844994,
+        "name": "Manfredi",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.747211,
+            "lat": -31.844339
+        }
+    },
+    {
+        "id": 3845016,
+        "name": "Manantiales Chicos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.3032,
+            "lat": -33.865021
+        }
+    },
+    {
+        "id": 3845052,
+        "name": "Manantial",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.282959,
+            "lat": -26.847481
+        }
+    },
+    {
+        "id": 3845073,
+        "name": "Malvinas Argentinas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.066673,
+            "lat": -31.383329
+        }
+    },
+    {
+        "id": 3845075,
+        "name": "Malvinas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.283333,
+            "lat": -26.91667
+        }
+    },
+    {
+        "id": 3845082,
+        "name": "Mal Paso",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.312477,
+            "lat": -27.7377
+        }
+    },
+    {
+        "id": 3845181,
+        "name": "Malargüe",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.584267,
+            "lat": -35.47546
+        }
+    },
+    {
+        "id": 3845202,
+        "name": "Malagueño",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.358398,
+            "lat": -31.46467
+        }
+    },
+    {
+        "id": 3845228,
+        "name": "Maizales",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.963322,
+            "lat": -33.317322
+        }
+    },
+    {
+        "id": 3845251,
+        "name": "Mainque",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.300003,
+            "lat": -39.066669
+        }
+    },
+    {
+        "id": 3845254,
+        "name": "Maimará",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.407967,
+            "lat": -23.62392
+        }
+    },
+    {
+        "id": 3845260,
+        "name": "Maguire",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.299999,
+            "lat": -33.950001
+        }
+    },
+    {
+        "id": 3845263,
+        "name": "Maggiolo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.245258,
+            "lat": -33.721661
+        }
+    },
+    {
+        "id": 3845266,
+        "name": "Magdalena",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.105701,
+            "lat": -27.546949
+        }
+    },
+    {
+        "id": 3845293,
+        "name": "Madariaga",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.666672,
+            "lat": -25.91667
+        }
+    },
+    {
+        "id": 3845310,
+        "name": "Maciel",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.88736,
+            "lat": -32.455742
+        }
+    },
+    {
+        "id": 3845330,
+        "name": "Machagai",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.049561,
+            "lat": -26.92614
+        }
+    },
+    {
+        "id": 3845344,
+        "name": "Macachín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.6665,
+            "lat": -37.135979
+        }
+    },
+    {
+        "id": 3845350,
+        "name": "Luzuriaga",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.816673,
+            "lat": -32.950001
+        }
+    },
+    {
+        "id": 3845359,
+        "name": "Luro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.133331,
+            "lat": -36.633331
+        }
+    },
+    {
+        "id": 3845365,
+        "name": "Luque",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.343231,
+            "lat": -31.647511
+        }
+    },
+    {
+        "id": 3845366,
+        "name": "Lunlunta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.822617,
+            "lat": -33.041229
+        }
+    },
+    {
+        "id": 3845391,
+        "name": "San Isidro de Lules",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.338692,
+            "lat": -26.9277
+        }
+    },
+    {
+        "id": 3845398,
+        "name": "Luján",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.929604,
+            "lat": -32.375702
+        }
+    },
+    {
+        "id": 3845406,
+        "name": "Lugones",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.339821,
+            "lat": -28.33588
+        }
+    },
+    {
+        "id": 3845490,
+        "name": "Los Varela",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.865501,
+            "lat": -27.954821
+        }
+    },
+    {
+        "id": 3845549,
+        "name": "Los Telares",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.448891,
+            "lat": -28.984791
+        }
+    },
+    {
+        "id": 3845575,
+        "name": "Los Surgentes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.021912,
+            "lat": -32.984539
+        }
+    },
+    {
+        "id": 3845596,
+        "name": "Los Sauces",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.682137,
+            "lat": -30.736629
+        }
+    },
+    {
+        "id": 3845663,
+        "name": "Los Ralos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.999748,
+            "lat": -26.88788
+        }
+    },
+    {
+        "id": 3845666,
+        "name": "Los Quirquinchos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.709862,
+            "lat": -33.375431
+        }
+    },
+    {
+        "id": 3845676,
+        "name": "Los Quebrachos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.206879,
+            "lat": -31.6031
+        }
+    },
+    {
+        "id": 3845679,
+        "name": "Los Quebrachitos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.377022,
+            "lat": -31.197861
+        }
+    },
+    {
+        "id": 3845682,
+        "name": "Los Puestos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.973221,
+            "lat": -27.267191
+        }
+    },
+    {
+        "id": 3845977,
+        "name": "Los Menucos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.087181,
+            "lat": -40.844021
+        }
+    },
+    {
+        "id": 3846080,
+        "name": "Los Juríes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.10862,
+            "lat": -28.465389
+        }
+    },
+    {
+        "id": 3846135,
+        "name": "Los Gutiérrez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.133331,
+            "lat": -26.799999
+        }
+    },
+    {
+        "id": 3846175,
+        "name": "Los Frentones",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.413681,
+            "lat": -26.4077
+        }
+    },
+    {
+        "id": 3846236,
+        "name": "Los Cóndores",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.277519,
+            "lat": -32.319839
+        }
+    },
+    {
+        "id": 3846267,
+        "name": "Los Cisnes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.471981,
+            "lat": -33.399929
+        }
+    },
+    {
+        "id": 3846296,
+        "name": "Los Chañaritos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.332329,
+            "lat": -31.40238
+        }
+    },
+    {
+        "id": 3846374,
+        "name": "Los Cardos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.63102,
+            "lat": -32.32206
+        }
+    },
+    {
+        "id": 3846402,
+        "name": "Los Boulevares",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.221832,
+            "lat": -31.341869
+        }
+    },
+    {
+        "id": 3846484,
+        "name": "Los Antiguos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.630859,
+            "lat": -46.549721
+        }
+    },
+    {
+        "id": 3846514,
+        "name": "Los Altos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.499458,
+            "lat": -28.04845
+        }
+    },
+    {
+        "id": 3846610,
+        "name": "Lonquimay",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.62429,
+            "lat": -36.465462
+        }
+    },
+    {
+        "id": 3846616,
+        "name": "Londres",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.133492,
+            "lat": -27.71439
+        }
+    },
+    {
+        "id": 3846632,
+        "name": "Departamento de Loncopué",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.333328,
+            "lat": -38.083328
+        }
+    },
+    {
+        "id": 3846634,
+        "name": "Loncopué",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.616089,
+            "lat": -38.072842
+        }
+    },
+    {
+        "id": 3846649,
+        "name": "Lomitas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.872429,
+            "lat": -27.88883
+        }
+    },
+    {
+        "id": 3846697,
+        "name": "Loma del Medio",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.739677,
+            "lat": -27.37627
+        }
+    },
+    {
+        "id": 3846719,
+        "name": "Loma Alta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.178028,
+            "lat": -31.960569
+        }
+    },
+    {
+        "id": 3846861,
+        "name": "Partido de Lincoln",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.75,
+            "lat": -35.0
+        }
+    },
+    {
+        "id": 3846864,
+        "name": "Lincoln",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.530201,
+            "lat": -34.866489
+        }
+    },
+    {
+        "id": 3846869,
+        "name": "Lin Calel",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.245029,
+            "lat": -38.7062
+        }
+    },
+    {
+        "id": 3846915,
+        "name": "Libertador General San Martín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.787567,
+            "lat": -23.80644
+        }
+    },
+    {
+        "id": 3846991,
+        "name": "Leones",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.29678,
+            "lat": -32.661739
+        }
+    },
+    {
+        "id": 3847102,
+        "name": "Departamento de Leales",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.083328,
+            "lat": -27.200001
+        }
+    },
+    {
+        "id": 3847103,
+        "name": "Leales",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.308891,
+            "lat": -27.195169
+        }
+    },
+    {
+        "id": 3847188,
+        "name": "La Violeta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.170341,
+            "lat": -33.73251
+        }
+    },
+    {
+        "id": 3847328,
+        "name": "Lavalle",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.108513,
+            "lat": -28.19635
+        }
+    },
+    {
+        "id": 3847482,
+        "name": "La Toma",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.623848,
+            "lat": -33.052582
+        }
+    },
+    {
+        "id": 3847516,
+        "name": "La Tigra",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.587189,
+            "lat": -27.109961
+        }
+    },
+    {
+        "id": 3847557,
+        "name": "La Tablada",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.305542,
+            "lat": -31.455669
+        }
+    },
+    {
+        "id": 3847599,
+        "name": "Las Vertientes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.579079,
+            "lat": -33.283371
+        }
+    },
+    {
+        "id": 3847613,
+        "name": "Las Varillas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.71946,
+            "lat": -31.87208
+        }
+    },
+    {
+        "id": 3847617,
+        "name": "Las Varas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.61655,
+            "lat": -31.802601
+        }
+    },
+    {
+        "id": 3847783,
+        "name": "Las Talas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.215881,
+            "lat": -30.75589
+        }
+    },
+    {
+        "id": 3847836,
+        "name": "Las Rosas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.58041,
+            "lat": -32.476608
+        }
+    },
+    {
+        "id": 3847858,
+        "name": "Las Pulgas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.618858,
+            "lat": -45.460979
+        }
+    },
+    {
+        "id": 3847907,
+        "name": "Las Petacas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.108761,
+            "lat": -31.82292
+        }
+    },
+    {
+        "id": 3847911,
+        "name": "Las Perdices",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.706341,
+            "lat": -32.697941
+        }
+    },
+    {
+        "id": 3847933,
+        "name": "Las Parejas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.516369,
+            "lat": -32.68478
+        }
+    },
+    {
+        "id": 3847935,
+        "name": "Las Paredes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.461563,
+            "lat": -34.56411
+        }
+    },
+    {
+        "id": 3847971,
+        "name": "Las Ovejas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.749908,
+            "lat": -36.988811
+        }
+    },
+    {
+        "id": 3848164,
+        "name": "Las Lomitas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.593029,
+            "lat": -24.709551
+        }
+    },
+    {
+        "id": 3848209,
+        "name": "Las Lajitas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.25,
+            "lat": -24.683331
+        }
+    },
+    {
+        "id": 3848216,
+        "name": "Las Lajas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.367439,
+            "lat": -38.52322
+        }
+    },
+    {
+        "id": 3848242,
+        "name": "Las Junturas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.450161,
+            "lat": -31.831249
+        }
+    },
+    {
+        "id": 3848343,
+        "name": "Las Higueras",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.289001,
+            "lat": -33.092312
+        }
+    },
+    {
+        "id": 3848353,
+        "name": "Las Heras",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.935928,
+            "lat": -46.541859
+        }
+    },
+    {
+        "id": 3848354,
+        "name": "Las Heras",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.828369,
+            "lat": -32.85273
+        }
+    },
+    {
+        "id": 3848355,
+        "name": "Las Heras",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.916672,
+            "lat": -31.566669
+        }
+    },
+    {
+        "id": 3848470,
+        "name": "Las Delicias",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.4263,
+            "lat": -31.93499
+        }
+    },
+    {
+        "id": 3848588,
+        "name": "Las Chacras",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.776459,
+            "lat": -32.56237
+        }
+    },
+    {
+        "id": 3848611,
+        "name": "Las Catitas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.033333,
+            "lat": -33.299999
+        }
+    },
+    {
+        "id": 3848653,
+        "name": "Las Cañas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.274849,
+            "lat": -31.01363
+        }
+    },
+    {
+        "id": 3848656,
+        "name": "Las Cañas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.215118,
+            "lat": -28.203899
+        }
+    },
+    {
+        "id": 3848676,
+        "name": "Las Calles",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.971413,
+            "lat": -31.82386
+        }
+    },
+    {
+        "id": 3848687,
+        "name": "Las Breñas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.081612,
+            "lat": -27.089661
+        }
+    },
+    {
+        "id": 3848863,
+        "name": "Las Acequias",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.976101,
+            "lat": -33.281551
+        }
+    },
+    {
+        "id": 3848890,
+        "name": "Lartigau",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.565498,
+            "lat": -38.447201
+        }
+    },
+    {
+        "id": 3848894,
+        "name": "Larrechea",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.0466,
+            "lat": -31.93548
+        }
+    },
+    {
+        "id": 3848896,
+        "name": "Larrea",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.366798,
+            "lat": -35.051472
+        }
+    },
+    {
+        "id": 3848949,
+        "name": "La Rioja Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.5,
+            "lat": -30.0
+        }
+    },
+    {
+        "id": 3848950,
+        "name": "La Rioja",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.85067,
+            "lat": -29.411051
+        }
+    },
+    {
+        "id": 3848989,
+        "name": "Larguía",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.218151,
+            "lat": -32.551479
+        }
+    },
+    {
+        "id": 3849075,
+        "name": "La Reducción",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.350533,
+            "lat": -26.95529
+        }
+    },
+    {
+        "id": 3849140,
+        "name": "La Quiaca",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.592987,
+            "lat": -22.10236
+        }
+    },
+    {
+        "id": 3849181,
+        "name": "La Puntilla",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.849052,
+            "lat": -32.96225
+        }
+    },
+    {
+        "id": 3849182,
+        "name": "La Puntilla",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.508774,
+            "lat": -28.12044
+        }
+    },
+    {
+        "id": 3849196,
+        "name": "La Puerta de San José",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.01667,
+            "lat": -27.549999
+        }
+    },
+    {
+        "id": 3849298,
+        "name": "Partido de Laprida",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.75,
+            "lat": -37.5
+        }
+    },
+    {
+        "id": 3849300,
+        "name": "Laprida",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.79969,
+            "lat": -37.544151
+        }
+    },
+    {
+        "id": 3849388,
+        "name": "La Playosa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.03088,
+            "lat": -32.100021
+        }
+    },
+    {
+        "id": 3849403,
+        "name": "Laplacette",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.155811,
+            "lat": -34.72187
+        }
+    },
+    {
+        "id": 3849516,
+        "name": "La Paz",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.549561,
+            "lat": -33.460911
+        }
+    },
+    {
+        "id": 3849557,
+        "name": "La Para",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.001068,
+            "lat": -30.894159
+        }
+    },
+    {
+        "id": 3849574,
+        "name": "La Pampa Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.0,
+            "lat": -37.0
+        }
+    },
+    {
+        "id": 3849736,
+        "name": "La Niña",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.206959,
+            "lat": -35.40715
+        }
+    },
+    {
+        "id": 3849769,
+        "name": "La Nélida",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.383331,
+            "lat": -33.26667
+        }
+    },
+    {
+        "id": 3849924,
+        "name": "La Mendieta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.963768,
+            "lat": -24.311871
+        }
+    },
+    {
+        "id": 3849980,
+        "name": "La Maruja",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.939972,
+            "lat": -35.673599
+        }
+    },
+    {
+        "id": 3850005,
+        "name": "Lamarque",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.70208,
+            "lat": -39.423038
+        }
+    },
+    {
+        "id": 3850355,
+        "name": "La Limpia",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.591019,
+            "lat": -35.076679
+        }
+    },
+    {
+        "id": 3850702,
+        "name": "La Invencible",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.387081,
+            "lat": -34.27034
+        }
+    },
+    {
+        "id": 3850888,
+        "name": "Laguna Yema",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.244659,
+            "lat": -24.25391
+        }
+    },
+    {
+        "id": 3850920,
+        "name": "Laguna Paiva",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.658939,
+            "lat": -31.303909
+        }
+    },
+    {
+        "id": 3850929,
+        "name": "Laguna Larga",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.801041,
+            "lat": -31.77652
+        }
+    },
+    {
+        "id": 3851072,
+        "name": "La Granja",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.268692,
+            "lat": -31.00919
+        }
+    },
+    {
+        "id": 3851100,
+        "name": "Lago Puelo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.614052,
+            "lat": -42.080952
+        }
+    },
+    {
+        "id": 3851181,
+        "name": "La Francia",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.633961,
+            "lat": -31.40675
+        }
+    },
+    {
+        "id": 3851241,
+        "name": "La Florida",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.690899,
+            "lat": -32.876968
+        }
+    },
+    {
+        "id": 3851244,
+        "name": "La Florida",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.554497,
+            "lat": -27.226839
+        }
+    },
+    {
+        "id": 3851331,
+        "name": "La Falda",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.489868,
+            "lat": -31.088409
+        }
+    },
+    {
+        "id": 3851619,
+        "name": "La Emilia",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.31646,
+            "lat": -33.34827
+        }
+    },
+    {
+        "id": 3851734,
+        "name": "La Donosa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.971291,
+            "lat": -27.427191
+        }
+    },
+    {
+        "id": 3851798,
+        "name": "La Cumbre",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.491386,
+            "lat": -30.98201
+        }
+    },
+    {
+        "id": 3851913,
+        "name": "La Consulta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.121819,
+            "lat": -33.73579
+        }
+    },
+    {
+        "id": 3851985,
+        "name": "La Cocha",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.570351,
+            "lat": -27.77729
+        }
+    },
+    {
+        "id": 3851993,
+        "name": "La Clotilde",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.666672,
+            "lat": -27.133329
+        }
+    },
+    {
+        "id": 3852125,
+        "name": "La Cesira",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.972382,
+            "lat": -33.951149
+        }
+    },
+    {
+        "id": 3852279,
+        "name": "La Carlota",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.297691,
+            "lat": -33.41993
+        }
+    },
+    {
+        "id": 3852288,
+        "name": "Departamento de Lácar",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.199997,
+            "lat": -40.25
+        }
+    },
+    {
+        "id": 3852292,
+        "name": "Departamento de La Capital",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.666672,
+            "lat": -31.5
+        }
+    },
+    {
+        "id": 3852374,
+        "name": "La Calera",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.335289,
+            "lat": -31.343769
+        }
+    },
+    {
+        "id": 3852428,
+        "name": "La Buena Parada",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.606361,
+            "lat": -31.171129
+        }
+    },
+    {
+        "id": 3852468,
+        "name": "Laboulaye",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.39119,
+            "lat": -34.126621
+        }
+    },
+    {
+        "id": 3852480,
+        "name": "Laborde",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.856609,
+            "lat": -33.153191
+        }
+    },
+    {
+        "id": 3852490,
+        "name": "La Bolsa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.300003,
+            "lat": -26.950001
+        }
+    },
+    {
+        "id": 3852629,
+        "name": "La Banda",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.242783,
+            "lat": -27.73348
+        }
+    },
+    {
+        "id": 3852815,
+        "name": "La Angelita",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.9692,
+            "lat": -34.262718
+        }
+    },
+    {
+        "id": 3853323,
+        "name": "Kaiken",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.199997,
+            "lat": -54.533329
+        }
+    },
+    {
+        "id": 3853330,
+        "name": "Justo Daract",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.18277,
+            "lat": -33.859402
+        }
+    },
+    {
+        "id": 3853331,
+        "name": "Justiniano Posse",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.677879,
+            "lat": -32.884109
+        }
+    },
+    {
+        "id": 3853350,
+        "name": "Junín de los Andes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.069359,
+            "lat": -39.950432
+        }
+    },
+    {
+        "id": 3853351,
+        "name": "Partido de Junín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.0,
+            "lat": -34.5
+        }
+    },
+    {
+        "id": 3853354,
+        "name": "Junín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.943321,
+            "lat": -34.58382
+        }
+    },
+    {
+        "id": 3853404,
+        "name": "Jujuy Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.0,
+            "lat": -23.0
+        }
+    },
+    {
+        "id": 3853412,
+        "name": "Juárez Celman",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.166107,
+            "lat": -31.258089
+        }
+    },
+    {
+        "id": 3853444,
+        "name": "Juan Bernabé Molina",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.512981,
+            "lat": -33.492828
+        }
+    },
+    {
+        "id": 3853447,
+        "name": "Juan Bautista Alberdi",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.809818,
+            "lat": -34.440102
+        }
+    },
+    {
+        "id": 3853477,
+        "name": "Josefina",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.991829,
+            "lat": -31.406219
+        }
+    },
+    {
+        "id": 3853479,
+        "name": "José de San Martín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.469673,
+            "lat": -44.05032
+        }
+    },
+    {
+        "id": 3853491,
+        "name": "Joaquín V. González",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.183327,
+            "lat": -25.08333
+        }
+    },
+    {
+        "id": 3853509,
+        "name": "Timbúes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.79298,
+            "lat": -32.667198
+        }
+    },
+    {
+        "id": 3853510,
+        "name": "Jesús María",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.094238,
+            "lat": -30.981529
+        }
+    },
+    {
+        "id": 3853562,
+        "name": "James Craik",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.466881,
+            "lat": -32.161201
+        }
+    },
+    {
+        "id": 3853592,
+        "name": "Jacinto Arauz",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.43169,
+            "lat": -38.08606
+        }
+    },
+    {
+        "id": 3853616,
+        "name": "Italó",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.78199,
+            "lat": -34.79237
+        }
+    },
+    {
+        "id": 3853643,
+        "name": "Isla Verde",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.402969,
+            "lat": -33.241039
+        }
+    },
+    {
+        "id": 3853644,
+        "name": "Isla Verde",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.150002,
+            "lat": -28.65
+        }
+    },
+    {
+        "id": 3853689,
+        "name": "Isca Yacú",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.609917,
+            "lat": -27.028891
+        }
+    },
+    {
+        "id": 3853706,
+        "name": "Iriondo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.756271,
+            "lat": -31.31448
+        }
+    },
+    {
+        "id": 3853745,
+        "name": "Intendente Alvear",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.592049,
+            "lat": -35.233829
+        }
+    },
+    {
+        "id": 3853748,
+        "name": "Inriville",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.230282,
+            "lat": -32.944241
+        }
+    },
+    {
+        "id": 3853756,
+        "name": "Ingenio San Pablo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.316673,
+            "lat": -26.9
+        }
+    },
+    {
+        "id": 3853760,
+        "name": "Ingenio Nueva Baviera",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.395561,
+            "lat": -27.070881
+        }
+    },
+    {
+        "id": 3853767,
+        "name": "Ingenio La Esperanza",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.838959,
+            "lat": -24.22554
+        }
+    },
+    {
+        "id": 3853773,
+        "name": "Ingeniero White",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.266369,
+            "lat": -38.780182
+        }
+    },
+    {
+        "id": 3853782,
+        "name": "Ingeniero Luis A. Huergo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.23333,
+            "lat": -39.083328
+        }
+    },
+    {
+        "id": 3853783,
+        "name": "Ingeniero Luiggi",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.465187,
+            "lat": -35.385849
+        }
+    },
+    {
+        "id": 3853786,
+        "name": "Ingeniero Jacobacci",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.544792,
+            "lat": -41.34269
+        }
+    },
+    {
+        "id": 3853788,
+        "name": "Ingeniero Guillermo N. Juárez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.849998,
+            "lat": -23.9
+        }
+    },
+    {
+        "id": 3853824,
+        "name": "Inés Indart",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.539322,
+            "lat": -34.39624
+        }
+    },
+    {
+        "id": 3853923,
+        "name": "Idiazábal",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.03252,
+            "lat": -32.81411
+        }
+    },
+    {
+        "id": 3853935,
+        "name": "Icaño",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.328171,
+            "lat": -28.91934
+        }
+    },
+    {
+        "id": 3853938,
+        "name": "Ibarlucea",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.792721,
+            "lat": -32.848202
+        }
+    },
+    {
+        "id": 3853958,
+        "name": "Humboldt",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.082401,
+            "lat": -31.40099
+        }
+    },
+    {
+        "id": 3853963,
+        "name": "Humaitá",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.467598,
+            "lat": -27.103519
+        }
+    },
+    {
+        "id": 3853966,
+        "name": "Departamento de Humahuaca",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.333328,
+            "lat": -23.08333
+        }
+    },
+    {
+        "id": 3853967,
+        "name": "Humahuaca",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.350479,
+            "lat": -23.205441
+        }
+    },
+    {
+        "id": 3853974,
+        "name": "Huinca Renancó",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.375801,
+            "lat": -34.840382
+        }
+    },
+    {
+        "id": 3853981,
+        "name": "Huillapima",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.978699,
+            "lat": -28.72533
+        }
+    },
+    {
+        "id": 3853994,
+        "name": "Hughes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.334671,
+            "lat": -33.801121
+        }
+    },
+    {
+        "id": 3854008,
+        "name": "Huerta Grande",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.490631,
+            "lat": -31.075239
+        }
+    },
+    {
+        "id": 3854089,
+        "name": "Huanqueros",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.217709,
+            "lat": -30.011511
+        }
+    },
+    {
+        "id": 3854092,
+        "name": "Huanguelén",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.950001,
+            "lat": -37.033329
+        }
+    },
+    {
+        "id": 3854093,
+        "name": "Huanchillas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.637009,
+            "lat": -33.666519
+        }
+    },
+    {
+        "id": 3854102,
+        "name": "Hualfín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.831306,
+            "lat": -27.22896
+        }
+    },
+    {
+        "id": 3854137,
+        "name": "Huaco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.51667,
+            "lat": -30.15
+        }
+    },
+    {
+        "id": 3854153,
+        "name": "Hoyo de Epuyén",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.50811,
+            "lat": -42.071892
+        }
+    },
+    {
+        "id": 3854293,
+        "name": "Hill Station",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.23307,
+            "lat": -51.57542
+        }
+    },
+    {
+        "id": 3854294,
+        "name": "Hilario Ascasubi",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.648151,
+            "lat": -39.376598
+        }
+    },
+    {
+        "id": 3854296,
+        "name": "Hilario",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.407661,
+            "lat": -31.48167
+        }
+    },
+    {
+        "id": 3854318,
+        "name": "Hersilia",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.840801,
+            "lat": -30.004471
+        }
+    },
+    {
+        "id": 3854323,
+        "name": "Herrera Vegas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.416672,
+            "lat": -36.083328
+        }
+    },
+    {
+        "id": 3854331,
+        "name": "Hernando",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.73333,
+            "lat": -32.426571
+        }
+    },
+    {
+        "id": 3854334,
+        "name": "Hernández",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.021599,
+            "lat": -32.337299
+        }
+    },
+    {
+        "id": 3854336,
+        "name": "Hermoso Campo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.34441,
+            "lat": -27.60816
+        }
+    },
+    {
+        "id": 3854427,
+        "name": "Guido Spano",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.6511,
+            "lat": -34.22612
+        }
+    },
+    {
+        "id": 3854438,
+        "name": "Guerrico",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.40062,
+            "lat": -33.673439
+        }
+    },
+    {
+        "id": 3854454,
+        "name": "Güemes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.293381,
+            "lat": -27.30838
+        }
+    },
+    {
+        "id": 3854459,
+        "name": "Departamento de Guaymallén",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.699997,
+            "lat": -32.883331
+        }
+    },
+    {
+        "id": 3854492,
+        "name": "Departamento de Guatraché",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.75,
+            "lat": -37.5
+        }
+    },
+    {
+        "id": 3854493,
+        "name": "Guatraché",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.53022,
+            "lat": -37.667759
+        }
+    },
+    {
+        "id": 3854494,
+        "name": "Guatimozín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.438438,
+            "lat": -33.461498
+        }
+    },
+    {
+        "id": 3854499,
+        "name": "Departamento de Guasayán",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.833328,
+            "lat": -28.0
+        }
+    },
+    {
+        "id": 3854594,
+        "name": "Guanaco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.6479,
+            "lat": -35.71352
+        }
+    },
+    {
+        "id": 3854604,
+        "name": "Guaminí",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.416672,
+            "lat": -37.033329
+        }
+    },
+    {
+        "id": 3854723,
+        "name": "Departamento de Graneros",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.333328,
+            "lat": -27.75
+        }
+    },
+    {
+        "id": 3854724,
+        "name": "Graneros",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.438301,
+            "lat": -27.64934
+        }
+    },
+    {
+        "id": 3854895,
+        "name": "Granadero Baigorria",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.717541,
+            "lat": -32.856831
+        }
+    },
+    {
+        "id": 3854906,
+        "name": "Gramilla",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.61338,
+            "lat": -27.297939
+        }
+    },
+    {
+        "id": 3854916,
+        "name": "Goudge",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.131531,
+            "lat": -34.679272
+        }
+    },
+    {
+        "id": 3854937,
+        "name": "Partido de Adolfo González Chaves",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.25,
+            "lat": -38.0
+        }
+    },
+    {
+        "id": 3854947,
+        "name": "González",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.612602,
+            "lat": -24.895941
+        }
+    },
+    {
+        "id": 3854956,
+        "name": "Golondrinas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.52095,
+            "lat": -42.029202
+        }
+    },
+    {
+        "id": 3854970,
+        "name": "Gobernador Ugarte",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.08007,
+            "lat": -35.164711
+        }
+    },
+    {
+        "id": 3854981,
+        "name": "Gobernador Gregores",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.247414,
+            "lat": -48.750568
+        }
+    },
+    {
+        "id": 3854985,
+        "name": "Gobernador Gálvez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.64045,
+            "lat": -33.030159
+        }
+    },
+    {
+        "id": 3854987,
+        "name": "Gobernador Crespo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.401619,
+            "lat": -30.3627
+        }
+    },
+    {
+        "id": 3854988,
+        "name": "Gobernador Costa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.597977,
+            "lat": -44.049919
+        }
+    },
+    {
+        "id": 3854993,
+        "name": "Gobernador Benegas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.849998,
+            "lat": -32.950001
+        }
+    },
+    {
+        "id": 3854996,
+        "name": "Gnecco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.00058,
+            "lat": -35.682549
+        }
+    },
+    {
+        "id": 3855003,
+        "name": "Girondo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.616669,
+            "lat": -36.0
+        }
+    },
+    {
+        "id": 3855041,
+        "name": "General Villegas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.01252,
+            "lat": -35.032848
+        }
+    },
+    {
+        "id": 3855042,
+        "name": "Partido de General Viamonte",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.0,
+            "lat": -35.0
+        }
+    },
+    {
+        "id": 3855043,
+        "name": "General Viamonte",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.03508,
+            "lat": -35.000141
+        }
+    },
+    {
+        "id": 3855056,
+        "name": "General San Martín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.604488,
+            "lat": -37.979038
+        }
+    },
+    {
+        "id": 3855061,
+        "name": "Departamento de General Roca",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.5,
+            "lat": -38.5
+        }
+    },
+    {
+        "id": 3855065,
+        "name": "General Roca",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.583328,
+            "lat": -39.033329
+        }
+    },
+    {
+        "id": 3855066,
+        "name": "General Roca",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.915989,
+            "lat": -32.73196
+        }
+    },
+    {
+        "id": 3855067,
+        "name": "General Ramírez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.20079,
+            "lat": -32.17601
+        }
+    },
+    {
+        "id": 3855069,
+        "name": "General Racedo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.408619,
+            "lat": -31.98283
+        }
+    },
+    {
+        "id": 3855072,
+        "name": "General Pinto",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.89093,
+            "lat": -34.764591
+        }
+    },
+    {
+        "id": 3855074,
+        "name": "General Pinedo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.283329,
+            "lat": -27.316669
+        }
+    },
+    {
+        "id": 3855075,
+        "name": "General Pico",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.756821,
+            "lat": -35.65662
+        }
+    },
+    {
+        "id": 3855083,
+        "name": "General O’Brien",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.754608,
+            "lat": -34.903141
+        }
+    },
+    {
+        "id": 3855092,
+        "name": "General Manuel J. Campos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.585369,
+            "lat": -37.460251
+        }
+    },
+    {
+        "id": 3855098,
+        "name": "General Levalle",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.924129,
+            "lat": -34.014721
+        }
+    },
+    {
+        "id": 3855102,
+        "name": "Partido de General La Madrid",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.25,
+            "lat": -37.5
+        }
+    },
+    {
+        "id": 3855104,
+        "name": "General La Madrid",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.26273,
+            "lat": -37.247559
+        }
+    },
+    {
+        "id": 3855107,
+        "name": "General Gutiérrez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.783493,
+            "lat": -32.958309
+        }
+    },
+    {
+        "id": 3855113,
+        "name": "General Fotheringham",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.869499,
+            "lat": -32.322929
+        }
+    },
+    {
+        "id": 3855114,
+        "name": "General Fernández Oro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.924889,
+            "lat": -38.952969
+        }
+    },
+    {
+        "id": 3855115,
+        "name": "General Enrique Mosconi",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.299999,
+            "lat": -23.216669
+        }
+    },
+    {
+        "id": 3855116,
+        "name": "General Enrique Mosconi",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.81255,
+            "lat": -22.595881
+        }
+    },
+    {
+        "id": 3855117,
+        "name": "General Enrique Godoy",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.150002,
+            "lat": -39.083328
+        }
+    },
+    {
+        "id": 3855118,
+        "name": "General Deheza",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.78611,
+            "lat": -32.756599
+        }
+    },
+    {
+        "id": 3855120,
+        "name": "General Daniel Cerri",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.39806,
+            "lat": -38.70612
+        }
+    },
+    {
+        "id": 3855121,
+        "name": "General Conesa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.433327,
+            "lat": -40.099998
+        }
+    },
+    {
+        "id": 3855124,
+        "name": "General Cabrera",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.872429,
+            "lat": -32.813129
+        }
+    },
+    {
+        "id": 3855131,
+        "name": "General Baldissera",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.306301,
+            "lat": -33.122459
+        }
+    },
+    {
+        "id": 3855132,
+        "name": "Partido de General Arenales",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.25,
+            "lat": -34.25
+        }
+    },
+    {
+        "id": 3855133,
+        "name": "General Arenales",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.305222,
+            "lat": -34.302639
+        }
+    },
+    {
+        "id": 3855140,
+        "name": "General Alvear",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.669029,
+            "lat": -31.94594
+        }
+    },
+    {
+        "id": 3855141,
+        "name": "General Alvarado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.466667,
+            "lat": -24.85
+        }
+    },
+    {
+        "id": 3855143,
+        "name": "General Acha",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.604309,
+            "lat": -37.37698
+        }
+    },
+    {
+        "id": 3855152,
+        "name": "Gaviotas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.638309,
+            "lat": -38.943661
+        }
+    },
+    {
+        "id": 3855201,
+        "name": "Garré",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.602169,
+            "lat": -36.560371
+        }
+    },
+    {
+        "id": 3855237,
+        "name": "Gancedo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.675709,
+            "lat": -27.490379
+        }
+    },
+    {
+        "id": 3855244,
+        "name": "Gálvez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.221031,
+            "lat": -32.02927
+        }
+    },
+    {
+        "id": 3855284,
+        "name": "Gaimán",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.492897,
+            "lat": -43.2897
+        }
+    },
+    {
+        "id": 3855288,
+        "name": "Gaboto",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.814159,
+            "lat": -32.43549
+        }
+    },
+    {
+        "id": 3855302,
+        "name": "Funes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.809952,
+            "lat": -32.91568
+        }
+    },
+    {
+        "id": 3855322,
+        "name": "Fuentes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.074329,
+            "lat": -33.17252
+        }
+    },
+    {
+        "id": 3855353,
+        "name": "Frías",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.13102,
+            "lat": -28.635929
+        }
+    },
+    {
+        "id": 3855357,
+        "name": "Freyre",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.09861,
+            "lat": -31.16448
+        }
+    },
+    {
+        "id": 3855365,
+        "name": "Fredriksson",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.4771,
+            "lat": -33.446838
+        }
+    },
+    {
+        "id": 3855368,
+        "name": "Fray Luis Beltrán",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.76667,
+            "lat": -39.316669
+        }
+    },
+    {
+        "id": 3855369,
+        "name": "Fray Luis Beltrán",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.65062,
+            "lat": -33.00724
+        }
+    },
+    {
+        "id": 3855370,
+        "name": "Fray Luis A. Beltrán",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.728191,
+            "lat": -32.791222
+        }
+    },
+    {
+        "id": 3855377,
+        "name": "Franck",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.939041,
+            "lat": -31.58642
+        }
+    },
+    {
+        "id": 3855394,
+        "name": "Fraile Pintado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.799431,
+            "lat": -23.94079
+        }
+    },
+    {
+        "id": 3855424,
+        "name": "Fortín Tiburcio",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.129009,
+            "lat": -34.34547
+        }
+    },
+    {
+        "id": 3855433,
+        "name": "Fortín Olavarría",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.024288,
+            "lat": -35.701759
+        }
+    },
+    {
+        "id": 3855554,
+        "name": "Firmat",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.4832,
+            "lat": -33.45937
+        }
+    },
+    {
+        "id": 3855558,
+        "name": "Finca Elisa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.1688,
+            "lat": -26.958839
+        }
+    },
+    {
+        "id": 3855563,
+        "name": "Filo-hua-hum",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.349998,
+            "lat": -40.48333
+        }
+    },
+    {
+        "id": 3855570,
+        "name": "Fighiera",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.4687,
+            "lat": -33.194939
+        }
+    },
+    {
+        "id": 3855588,
+        "name": "Fiambalá",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.614899,
+            "lat": -27.68705
+        }
+    },
+    {
+        "id": 3855603,
+        "name": "Ferré",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.138779,
+            "lat": -34.127281
+        }
+    },
+    {
+        "id": 3855607,
+        "name": "Fernández",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.89349,
+            "lat": -27.92038
+        }
+    },
+    {
+        "id": 3855626,
+        "name": "Felicia",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.212349,
+            "lat": -31.244579
+        }
+    },
+    {
+        "id": 3855639,
+        "name": "Fatraló",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.83503,
+            "lat": -36.963959
+        }
+    },
+    {
+        "id": 3855665,
+        "name": "Departamento de Famaillá",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.5,
+            "lat": -26.91667
+        }
+    },
+    {
+        "id": 3855666,
+        "name": "Famaillá",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.40329,
+            "lat": -27.054131
+        }
+    },
+    {
+        "id": 3855690,
+        "name": "Facundo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.973732,
+            "lat": -45.309422
+        }
+    },
+    {
+        "id": 3855712,
+        "name": "Eusebia",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.85704,
+            "lat": -30.946239
+        }
+    },
+    {
+        "id": 3855715,
+        "name": "Eugenio Bustos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.070442,
+            "lat": -33.77734
+        }
+    },
+    {
+        "id": 3855719,
+        "name": "Etruria",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.246601,
+            "lat": -32.940079
+        }
+    },
+    {
+        "id": 3855728,
+        "name": "Estomba",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.804508,
+            "lat": -38.350182
+        }
+    },
+    {
+        "id": 3855763,
+        "name": "Estanislao del Campo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.092178,
+            "lat": -25.05504
+        }
+    },
+    {
+        "id": 3855917,
+        "name": "Estación Ramallo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.066669,
+            "lat": -33.5
+        }
+    },
+    {
+        "id": 3855974,
+        "name": "Esquel",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.316673,
+            "lat": -42.900002
+        }
+    },
+    {
+        "id": 3856022,
+        "name": "Esperanza",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.931728,
+            "lat": -31.448799
+        }
+    },
+    {
+        "id": 3856036,
+        "name": "Espartillar",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.434391,
+            "lat": -37.360859
+        }
+    },
+    {
+        "id": 3856047,
+        "name": "Esmeralda",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.93256,
+            "lat": -31.61689
+        }
+    },
+    {
+        "id": 3856122,
+        "name": "Escalante",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.78981,
+            "lat": -45.75016
+        }
+    },
+    {
+        "id": 3856140,
+        "name": "Epuyén",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.387337,
+            "lat": -42.221859
+        }
+    },
+    {
+        "id": 3856210,
+        "name": "Empalme Villa Constitución",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.379391,
+            "lat": -33.26038
+        }
+    },
+    {
+        "id": 3856220,
+        "name": "Emilio V. Bunge",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.195572,
+            "lat": -34.779819
+        }
+    },
+    {
+        "id": 3856231,
+        "name": "Embarcación",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.096046,
+            "lat": -23.208981
+        }
+    },
+    {
+        "id": 3856235,
+        "name": "Embalse",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.418091,
+            "lat": -32.18
+        }
+    },
+    {
+        "id": 3856236,
+        "name": "Embajador Martini",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.280922,
+            "lat": -35.38633
+        }
+    },
+    {
+        "id": 3856436,
+        "name": "El Trébol",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.701401,
+            "lat": -32.200802
+        }
+    },
+    {
+        "id": 3856496,
+        "name": "El Tío",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.82938,
+            "lat": -31.38357
+        }
+    },
+    {
+        "id": 3856511,
+        "name": "El Tejar",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.045658,
+            "lat": -35.220951
+        }
+    },
+    {
+        "id": 3856547,
+        "name": "El Tala",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.48333,
+            "lat": -31.799999
+        }
+    },
+    {
+        "id": 3856548,
+        "name": "El Tala",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.276428,
+            "lat": -26.111759
+        }
+    },
+    {
+        "id": 3856562,
+        "name": "El Taco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.594841,
+            "lat": -28.699499
+        }
+    },
+    {
+        "id": 3856575,
+        "name": "El Suncho",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.948463,
+            "lat": -27.212299
+        }
+    },
+    {
+        "id": 3856659,
+        "name": "El Sauce",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.313744,
+            "lat": -31.09746
+        }
+    },
+    {
+        "id": 3856776,
+        "name": "El Rodeo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.874199,
+            "lat": -28.215179
+        }
+    },
+    {
+        "id": 3856839,
+        "name": "El Retiro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.481903,
+            "lat": -31.18046
+        }
+    },
+    {
+        "id": 3857012,
+        "name": "El Quebrachal",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.066673,
+            "lat": -25.283331
+        }
+    },
+    {
+        "id": 3857061,
+        "name": "El Pueblito",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.298599,
+            "lat": -31.11578
+        }
+    },
+    {
+        "id": 3857216,
+        "name": "El Plumerillo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.786484,
+            "lat": -32.835411
+        }
+    },
+    {
+        "id": 3857228,
+        "name": "El Piquete",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.716671,
+            "lat": -31.566669
+        }
+    },
+    {
+        "id": 3857387,
+        "name": "El Palomar",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.596878,
+            "lat": -26.88315
+        }
+    },
+    {
+        "id": 3857431,
+        "name": "Elortondo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.616928,
+            "lat": -33.700291
+        }
+    },
+    {
+        "id": 3857756,
+        "name": "El Maitén",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.166931,
+            "lat": -42.04924
+        }
+    },
+    {
+        "id": 3857851,
+        "name": "Elisa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.048439,
+            "lat": -30.69512
+        }
+    },
+    {
+        "id": 3857879,
+        "name": "El Huecú",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.580063,
+            "lat": -37.645222
+        }
+    },
+    {
+        "id": 3857886,
+        "name": "El Huaco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.099998,
+            "lat": -29.16667
+        }
+    },
+    {
+        "id": 3857887,
+        "name": "El Hoyo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.231972,
+            "lat": -27.028721
+        }
+    },
+    {
+        "id": 3857974,
+        "name": "El Galpón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.652588,
+            "lat": -25.38069
+        }
+    },
+    {
+        "id": 3858088,
+        "name": "Elena",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.394814,
+            "lat": -32.572048
+        }
+    },
+    {
+        "id": 3858133,
+        "name": "El Dorado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.58252,
+            "lat": -34.650379
+        }
+    },
+    {
+        "id": 3858204,
+        "name": "El Destierro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.47662,
+            "lat": -24.1
+        }
+    },
+    {
+        "id": 3858553,
+        "name": "El Carril",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.491737,
+            "lat": -25.0741
+        }
+    },
+    {
+        "id": 3858677,
+        "name": "El Calafate",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -72.276817,
+            "lat": -50.340752
+        }
+    },
+    {
+        "id": 3858765,
+        "name": "El Bolsón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.51667,
+            "lat": -41.966671
+        }
+    },
+    {
+        "id": 3858909,
+        "name": "El Arañado",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.893219,
+            "lat": -31.741199
+        }
+    },
+    {
+        "id": 3858918,
+        "name": "El Amparo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.150002,
+            "lat": -33.183331
+        }
+    },
+    {
+        "id": 3859000,
+        "name": "El Aguilar",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.692131,
+            "lat": -23.225821
+        }
+    },
+    {
+        "id": 3859034,
+        "name": "Egusquiza",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.62759,
+            "lat": -31.09565
+        }
+    },
+    {
+        "id": 3859036,
+        "name": "Eduardo Castex",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.294479,
+            "lat": -35.915009
+        }
+    },
+    {
+        "id": 3859082,
+        "name": "Dumesnil",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.327888,
+            "lat": -31.32198
+        }
+    },
+    {
+        "id": 3859102,
+        "name": "Dudignac",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.705219,
+            "lat": -35.649059
+        }
+    },
+    {
+        "id": 3859103,
+        "name": "Ducós",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.416672,
+            "lat": -37.466671
+        }
+    },
+    {
+        "id": 3859110,
+        "name": "Drabble",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.76582,
+            "lat": -34.920391
+        }
+    },
+    {
+        "id": 3859179,
+        "name": "Dorila",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.715611,
+            "lat": -35.775681
+        }
+    },
+    {
+        "id": 3859278,
+        "name": "Dolavón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.699997,
+            "lat": -43.299999
+        }
+    },
+    {
+        "id": 3859279,
+        "name": "Doctor Rogelio Cortizo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.033333,
+            "lat": -40.73333
+        }
+    },
+    {
+        "id": 3859296,
+        "name": "Doblas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.011833,
+            "lat": -37.14967
+        }
+    },
+    {
+        "id": 3859384,
+        "name": "Diamante",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.638359,
+            "lat": -32.06641
+        }
+    },
+    {
+        "id": 3859409,
+        "name": "Devoto",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.306339,
+            "lat": -31.40431
+        }
+    },
+    {
+        "id": 3859429,
+        "name": "Despeñaderos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.289886,
+            "lat": -31.816259
+        }
+    },
+    {
+        "id": 3859435,
+        "name": "Desmochado Afuera",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.26667,
+            "lat": -33.0
+        }
+    },
+    {
+        "id": 3859437,
+        "name": "Desiderio Tello",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.315483,
+            "lat": -31.21154
+        }
+    },
+    {
+        "id": 3859498,
+        "name": "Delfín Gallo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.09137,
+            "lat": -26.853331
+        }
+    },
+    {
+        "id": 3859500,
+        "name": "Del Campillo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.495041,
+            "lat": -34.376591
+        }
+    },
+    {
+        "id": 3859502,
+        "name": "De la Garma",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.415001,
+            "lat": -37.96336
+        }
+    },
+    {
+        "id": 3859512,
+        "name": "Deán Funes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.349838,
+            "lat": -30.420361
+        }
+    },
+    {
+        "id": 3859521,
+        "name": "Darwin",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.76667,
+            "lat": -39.200001
+        }
+    },
+    {
+        "id": 3859522,
+        "name": "Darregueira",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.160759,
+            "lat": -37.688919
+        }
+    },
+    {
+        "id": 3859535,
+        "name": "Dalmacio Vélez Sársfield",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.580379,
+            "lat": -32.610722
+        }
+    },
+    {
+        "id": 3859538,
+        "name": "Daireaux",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.75,
+            "lat": -36.599998
+        }
+    },
+    {
+        "id": 3859552,
+        "name": "Cutral-Có",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.208893,
+            "lat": -38.94688
+        }
+    },
+    {
+        "id": 3859574,
+        "name": "Curtiembre",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.16777,
+            "lat": -31.46221
+        }
+    },
+    {
+        "id": 3859749,
+        "name": "Cuchi Corral",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.57518,
+            "lat": -30.974819
+        }
+    },
+    {
+        "id": 3859827,
+        "name": "Departamento de Cruz del Eje",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.0,
+            "lat": -30.75
+        }
+    },
+    {
+        "id": 3859828,
+        "name": "Cruz del Eje",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.803871,
+            "lat": -30.72644
+        }
+    },
+    {
+        "id": 3859833,
+        "name": "Cruz Chica",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.483788,
+            "lat": -30.96497
+        }
+    },
+    {
+        "id": 3859839,
+        "name": "Cruz Alta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.807461,
+            "lat": -33.008869
+        }
+    },
+    {
+        "id": 3859904,
+        "name": "Crespo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.30658,
+            "lat": -32.028728
+        }
+    },
+    {
+        "id": 3859910,
+        "name": "Crámer",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.357368,
+            "lat": -33.699951
+        }
+    },
+    {
+        "id": 3859946,
+        "name": "Cotagaita",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.07402,
+            "lat": -30.913071
+        }
+    },
+    {
+        "id": 3859951,
+        "name": "Costa Sacate",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.75935,
+            "lat": -31.647699
+        }
+    },
+    {
+        "id": 3859956,
+        "name": "Costa de Araujo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.3974,
+            "lat": -32.757809
+        }
+    },
+    {
+        "id": 3859965,
+        "name": "Cosquín",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.46563,
+            "lat": -31.245081
+        }
+    },
+    {
+        "id": 3859966,
+        "name": "Cosme Sud",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.116669,
+            "lat": -31.883329
+        }
+    },
+    {
+        "id": 3859974,
+        "name": "Corzuela",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.96928,
+            "lat": -26.953739
+        }
+    },
+    {
+        "id": 3860059,
+        "name": "Correa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.254742,
+            "lat": -32.849159
+        }
+    },
+    {
+        "id": 3860079,
+        "name": "Corralito",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.192162,
+            "lat": -32.02462
+        }
+    },
+    {
+        "id": 3860129,
+        "name": "Corral de Bustos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.184631,
+            "lat": -33.282051
+        }
+    },
+    {
+        "id": 3860163,
+        "name": "Partido de Coronel Suárez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.833328,
+            "lat": -37.5
+        }
+    },
+    {
+        "id": 3860164,
+        "name": "Coronel Suárez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.93343,
+            "lat": -37.45467
+        }
+    },
+    {
+        "id": 3860168,
+        "name": "Coronel Rodríguez",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.245762,
+            "lat": -31.700781
+        }
+    },
+    {
+        "id": 3860174,
+        "name": "Coronel Pringles",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.356152,
+            "lat": -37.982948
+        }
+    },
+    {
+        "id": 3860178,
+        "name": "Coronel Moldes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.597107,
+            "lat": -33.6227
+        }
+    },
+    {
+        "id": 3860179,
+        "name": "Coronel Moldes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.479027,
+            "lat": -25.27994
+        }
+    },
+    {
+        "id": 3860197,
+        "name": "Coronel Du Graty",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.914619,
+            "lat": -27.68038
+        }
+    },
+    {
+        "id": 3860198,
+        "name": "Partido de Coronel Dorrego",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.166672,
+            "lat": -38.666672
+        }
+    },
+    {
+        "id": 3860199,
+        "name": "Coronel Dorrego",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.287319,
+            "lat": -38.71867
+        }
+    },
+    {
+        "id": 3860201,
+        "name": "Partido de Coronel Rosales",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.833328,
+            "lat": -38.833328
+        }
+    },
+    {
+        "id": 3860204,
+        "name": "Coronel Charlone",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.370312,
+            "lat": -34.674789
+        }
+    },
+    {
+        "id": 3860206,
+        "name": "Coronel Belisle",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.98333,
+            "lat": -39.183331
+        }
+    },
+    {
+        "id": 3860208,
+        "name": "Coronel Baigorria",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.361069,
+            "lat": -32.847698
+        }
+    },
+    {
+        "id": 3860209,
+        "name": "Coronel Arnold",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.965881,
+            "lat": -33.105042
+        }
+    },
+    {
+        "id": 3860217,
+        "name": "Coronda",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.919819,
+            "lat": -31.97263
+        }
+    },
+    {
+        "id": 3860255,
+        "name": "Córdoba Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.0,
+            "lat": -32.0
+        }
+    },
+    {
+        "id": 3860259,
+        "name": "Córdoba",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.181053,
+            "lat": -31.4135
+        }
+    },
+    {
+        "id": 3860280,
+        "name": "Coquimbito",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.75,
+            "lat": -32.966671
+        }
+    },
+    {
+        "id": 3860289,
+        "name": "Departamento de Copo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.75,
+            "lat": -26.0
+        }
+    },
+    {
+        "id": 3860319,
+        "name": "Contraalmirante Cordero",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.15284,
+            "lat": -38.724232
+        }
+    },
+    {
+        "id": 3860365,
+        "name": "Conesa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.354279,
+            "lat": -33.594341
+        }
+    },
+    {
+        "id": 3860407,
+        "name": "Condarco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.066669,
+            "lat": -35.26667
+        }
+    },
+    {
+        "id": 3860417,
+        "name": "Conchas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.964111,
+            "lat": -25.477409
+        }
+    },
+    {
+        "id": 3860419,
+        "name": "Concepción del Bermejo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.946171,
+            "lat": -26.59926
+        }
+    },
+    {
+        "id": 3860427,
+        "name": "Concepción",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.59726,
+            "lat": -27.342779
+        }
+    },
+    {
+        "id": 3860431,
+        "name": "Concarán",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.242699,
+            "lat": -32.560089
+        }
+    },
+    {
+        "id": 3860443,
+        "name": "Comodoro Rivadavia",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.5,
+            "lat": -45.866669
+        }
+    },
+    {
+        "id": 3860455,
+        "name": "Comedero",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.584969,
+            "lat": -28.9175
+        }
+    },
+    {
+        "id": 3860466,
+        "name": "Comandante Luis Piedra Buena",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.914673,
+            "lat": -49.98513
+        }
+    },
+    {
+        "id": 3860475,
+        "name": "Comallo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.267838,
+            "lat": -41.02993
+        }
+    },
+    {
+        "id": 3860705,
+        "name": "Colonia Tirolesa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.086411,
+            "lat": -31.237289
+        }
+    },
+    {
+        "id": 3860709,
+        "name": "Colonia Seré",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.725422,
+            "lat": -35.436878
+        }
+    },
+    {
+        "id": 3860721,
+        "name": "Colonia San Pedro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.342129,
+            "lat": -37.953541
+        }
+    },
+    {
+        "id": 3860730,
+        "name": "Colonia San Bartolomé",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.724361,
+            "lat": -31.5278
+        }
+    },
+    {
+        "id": 3860733,
+        "name": "Colonia Río Chico",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.016762,
+            "lat": -31.27132
+        }
+    },
+    {
+        "id": 3860755,
+        "name": "Colonia Margarita",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.64592,
+            "lat": -31.685801
+        }
+    },
+    {
+        "id": 3860757,
+        "name": "Colonia La Tordilla",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.06134,
+            "lat": -31.237459
+        }
+    },
+    {
+        "id": 3860766,
+        "name": "Colonia La Brava",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.142841,
+            "lat": -30.453699
+        }
+    },
+    {
+        "id": 3860791,
+        "name": "Colonia Dora",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.950001,
+            "lat": -28.6
+        }
+    },
+    {
+        "id": 3860801,
+        "name": "Colonia Caroya",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.065193,
+            "lat": -31.019779
+        }
+    },
+    {
+        "id": 3860811,
+        "name": "Colonia Barón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.854038,
+            "lat": -36.15152
+        }
+    },
+    {
+        "id": 3860816,
+        "name": "Colonia Alpina",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.103779,
+            "lat": -30.05954
+        }
+    },
+    {
+        "id": 3860818,
+        "name": "Colonia Almada",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.864029,
+            "lat": -32.03503
+        }
+    },
+    {
+        "id": 3860822,
+        "name": "Partido de Colón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.0,
+            "lat": -33.833328
+        }
+    },
+    {
+        "id": 3860825,
+        "name": "Departamento de Colón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.166672,
+            "lat": -31.16667
+        }
+    },
+    {
+        "id": 3860828,
+        "name": "Colón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.101101,
+            "lat": -33.895119
+        }
+    },
+    {
+        "id": 3860847,
+        "name": "Collún-Có",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.20137,
+            "lat": -39.969551
+        }
+    },
+    {
+        "id": 3860881,
+        "name": "Colastiné Sur",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.600899,
+            "lat": -31.66086
+        }
+    },
+    {
+        "id": 3861001,
+        "name": "Clodomiro Díaz",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.799999,
+            "lat": -27.616671
+        }
+    },
+    {
+        "id": 3861002,
+        "name": "Clodomira",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.131081,
+            "lat": -27.5744
+        }
+    },
+    {
+        "id": 3861016,
+        "name": "Clason",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.291061,
+            "lat": -32.461418
+        }
+    },
+    {
+        "id": 3861039,
+        "name": "Ciudad Universitaria",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.349998,
+            "lat": -26.783331
+        }
+    },
+    {
+        "id": 3861056,
+        "name": "Cipolletti",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.990318,
+            "lat": -38.933922
+        }
+    },
+    {
+        "id": 3861059,
+        "name": "Cintra",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -62.652142,
+            "lat": -32.306728
+        }
+    },
+    {
+        "id": 3861061,
+        "name": "Cinco Saltos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.062927,
+            "lat": -38.822239
+        }
+    },
+    {
+        "id": 3861217,
+        "name": "Chumbicha",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.235001,
+            "lat": -28.8543
+        }
+    },
+    {
+        "id": 3861244,
+        "name": "Chubut Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.0,
+            "lat": -44.0
+        }
+    },
+    {
+        "id": 3861257,
+        "name": "Chovet",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.605808,
+            "lat": -33.598759
+        }
+    },
+    {
+        "id": 3861262,
+        "name": "Chos Malal",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.270851,
+            "lat": -37.37809
+        }
+    },
+    {
+        "id": 3861297,
+        "name": "Chorotis",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.399818,
+            "lat": -27.915779
+        }
+    },
+    {
+        "id": 3861329,
+        "name": "Choele Choel",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.683327,
+            "lat": -39.26667
+        }
+    },
+    {
+        "id": 3861344,
+        "name": "Chivilcoy",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.01667,
+            "lat": -34.89566
+        }
+    },
+    {
+        "id": 3861405,
+        "name": "Chimpay",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.142357,
+            "lat": -39.164822
+        }
+    },
+    {
+        "id": 3861415,
+        "name": "Departamento de Chimbas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.533333,
+            "lat": -31.466669
+        }
+    },
+    {
+        "id": 3861416,
+        "name": "Chimbas",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.533333,
+            "lat": -31.48333
+        }
+    },
+    {
+        "id": 3861443,
+        "name": "Departamento de Chilecito",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.5,
+            "lat": -29.41667
+        }
+    },
+    {
+        "id": 3861445,
+        "name": "Chilecito",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.497398,
+            "lat": -29.161949
+        }
+    },
+    {
+        "id": 3861493,
+        "name": "Departamento de Chicoana",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.583328,
+            "lat": -25.16667
+        }
+    },
+    {
+        "id": 3861494,
+        "name": "Chicoana",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.533096,
+            "lat": -25.10088
+        }
+    },
+    {
+        "id": 3861528,
+        "name": "Chichinales",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.927139,
+            "lat": -39.115051
+        }
+    },
+    {
+        "id": 3861568,
+        "name": "Chepes Viejo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.58519,
+            "lat": -31.26075
+        }
+    },
+    {
+        "id": 3861595,
+        "name": "Chazón",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -63.276569,
+            "lat": -33.07872
+        }
+    },
+    {
+        "id": 3861666,
+        "name": "Charras",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.047188,
+            "lat": -33.023998
+        }
+    },
+    {
+        "id": 3861677,
+        "name": "Charbonier",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.543747,
+            "lat": -30.77302
+        }
+    },
+    {
+        "id": 3861678,
+        "name": "Charata",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.18795,
+            "lat": -27.21438
+        }
+    },
+    {
+        "id": 3861704,
+        "name": "Chapelco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -71.21769,
+            "lat": -40.126621
+        }
+    },
+    {
+        "id": 3861713,
+        "name": "Chapanay",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.433327,
+            "lat": -32.98333
+        }
+    },
+    {
+        "id": 3861824,
+        "name": "Chamical",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.313988,
+            "lat": -30.36002
+        }
+    },
+    {
+        "id": 3861828,
+        "name": "Challacó",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.96489,
+            "lat": -38.96859
+        }
+    },
+    {
+        "id": 3861846,
+        "name": "Chaján",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.004784,
+            "lat": -33.556358
+        }
+    },
+    {
+        "id": 3861869,
+        "name": "Chacras de Coria",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.866669,
+            "lat": -33.0
+        }
+    },
+    {
+        "id": 3861887,
+        "name": "Chaco Province",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.5,
+            "lat": -26.0
+        }
+    },
+    {
+        "id": 3861944,
+        "name": "Partido de Chacabuco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.333328,
+            "lat": -34.666672
+        }
+    },
+    {
+        "id": 3861953,
+        "name": "Chacabuco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.473888,
+            "lat": -34.64167
+        }
+    },
+    {
+        "id": 3861956,
+        "name": "Chabás",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -61.357559,
+            "lat": -33.244579
+        }
+    },
+    {
+        "id": 3861958,
+        "name": "Cevil Redondo",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.283333,
+            "lat": -26.783331
+        }
+    },
+    {
+        "id": 3861966,
+        "name": "Cervantes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.383331,
+            "lat": -39.049999
+        }
+    },
+    {
+        "id": 3862084,
+        "name": "Departamento de Cerrillos",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.416672,
+            "lat": -25.0
+        }
+    }
+]
