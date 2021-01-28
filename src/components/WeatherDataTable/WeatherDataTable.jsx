@@ -121,6 +121,7 @@ export default function WeatherDataTable({ data, loading }) {
   return (
     <Table
       columns={columns}
+      rowKey="dt"
       dataSource={data}
       pagination={false}
       loading={loading}
