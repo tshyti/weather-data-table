@@ -51,17 +51,19 @@ export default function App() {
       title: "Name",
       dataIndex: "name",
       sorter: (a, b) => a.name.length - b.name.length,
-      ...getColumnSearchProps("name")
+      ...getColumnSearchProps("name", "Name")
     },
     {
       title: "Age",
       dataIndex: "age",
-      sorter: (a, b) => a.age - b.age
+      sorter: (a, b) => a.age - b.age,
+      ...getColumnSearchProps("age", "Age")
     },
     {
       title: "Address",
       dataIndex: "address",
-      sorter: (a, b) => a.address.length - b.address.length
+      sorter: (a, b) => a.address.length - b.address.length,
+      ...getColumnSearchProps("address", "Address")
     }
   ];
 
@@ -81,38 +83,23 @@ export default function App() {
             onChange={(e) =>
               setSelectedKeys(e.target.value ? [e.target.value] : [])
             }
-            onPressEnter={() => handleSearch(selectedKeys, confirm, dataIndex)}
+            onPressEnter={() => confirm({ closeDropdown: false })}
             style={{ width: 188, marginBottom: 8, display: "block" }}
           />
           <Space>
             <Button
               type="primary"
-              onClick={() => handleSearch(selectedKeys, confirm, dataIndex)}
+              onClick={() => {
+                confirm({ closeDropdown: false });
+              }}
               icon={<SearchOutlined />}
               size="small"
               style={{ width: 90 }}
             >
               Search
             </Button>
-            <Button
-              onClick={() => handleReset(clearFilters)}
-              size="small"
-              style={{ width: 90 }}
-            >
+            <Button onClick={clearFilters} size="small" style={{ width: 90 }}>
               Reset
-            </Button>
-            <Button
-              type="link"
-              size="small"
-              onClick={() => {
-                confirm({ closeDropdown: false });
-                // this.setState({
-                //   searchText: selectedKeys[0],
-                //   searchedColumn: dataIndex
-                // });
-              }}
-            >
-              Filter
             </Button>
           </Space>
         </div>
@@ -120,17 +107,17 @@ export default function App() {
       filterIcon: (filtered) => (
         <SearchOutlined style={{ color: filtered ? "#1890ff" : undefined }} />
       ),
-      onFilter: (value, record) =>
-        record[dataIndex]
-          ? record[dataIndex]
-              .toString()
-              .toLowerCase()
-              .includes(value.toLowerCase())
-          : ""
+      onFilter: (value, record) => {
+        if (record[dataIndex]) {
+          return record[dataIndex]
+            .toString()
+            .toLowerCase()
+            .includes(value.toLowerCase());
+        }
+        return false;
+      }
     };
   }
-
-  function handleSearch() {}
 
   function handleReset() {}
 
