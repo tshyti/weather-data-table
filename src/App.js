@@ -14,7 +14,7 @@ export default function App() {
     setWeatherDataLoading(true);
     try {
       const { data } = await weatherDataApi.get("/daily", {
-        params: { cnt: 16, id: cityId }
+        params: { cnt: 16, id: cityId, units: "imperial" }
       });
       setWeatherData(data);
     } catch (error) {

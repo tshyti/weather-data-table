@@ -47,13 +47,19 @@ export default function WeatherDataTable({ data, loading }) {
     {
       title: "Weather",
       dataIndex: ["weather", 0, "description"],
-      sorter: (a, b) => a.temp.max - b.temp.max,
+      sorter: (a, b) => {
+        return a.weather[0].description.localeCompare(
+          b.weather[0].description,
+          "en",
+          { sensitivity: "base" }
+        );
+      },
       render: (value) => {
         return <label>{capitalizeFirstLetter(value)}</label>;
       },
       ...getColumnSearchProps({
         getValueFn: (record) => record["weather"][0]["description"],
-        placeholder: "Weatjer"
+        placeholder: "Weather"
       })
     }
   ];
